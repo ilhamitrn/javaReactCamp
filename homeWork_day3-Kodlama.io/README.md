@@ -4,5 +4,5 @@
 
  UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonları tahminleyip modelleyiniz. (Class-Inheritance-Method)
  
- Kural -- Sadece gördüğümüz konulardan yararlanmalısınız.
+
 
