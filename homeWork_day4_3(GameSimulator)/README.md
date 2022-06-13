@@ -12,4 +12,4 @@ Gereksinimler
 
 3.     Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.
 
-4.     Satışlarda kampanya entegrasyonunu simule ediniz.
+4.     Satışlarda kampanya entegrasyonunu simule ediniz...
